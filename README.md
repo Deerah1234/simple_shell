@@ -3,4 +3,4 @@
 **Authors**
 =========
 - [Emmanuel James](https://github.com/Deerah1234).
-- [Onyeoma](https://github.com/Denzelcole).
+- [Theodore Ononuju](https://github.com/Denzelcole).
